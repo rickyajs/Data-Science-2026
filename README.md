@@ -3,7 +3,7 @@
 # Tools / Library yang saya gunakan adalah kesuluruhan dari modul yang diberikan
 # Berikut adalah kesimpulan yang saya simpulkan dari modul pertemuan 1 sampai 7 :
 
-(*) Pertemuan 1: Pengenalan Data Science & CRISP-DM
-Inti: Data Science menggabungkan Ilmu Komputer, Matematika/Statistika, dan Bisnis untuk mengubah data menjadi wawasan (insight).
-Kerangka Kerja (CRISP-DM): Proses iteratif yang terdiri dari 6 tahap: Pemahaman Bisnis → Pemahaman Data → Persiapan Data → Pemodelan → Evaluasi → Penerapan (Deployment).
-Ekosistem: Python, Google Colab/Jupyter Notebook, dan GitHub sebagai platform kolaborasi.
+# (*) Pertemuan 1: Pengenalan Data Science & CRISP-DM
+# Inti: Data Science menggabungkan Ilmu Komputer, Matematika/Statistika, dan Bisnis untuk mengubah data menjadi wawasan (insight).
+# Kerangka Kerja (CRISP-DM): Proses iteratif yang terdiri dari 6 tahap: Pemahaman Bisnis → Pemahaman Data → Persiapan Data → Pemodelan → Evaluasi → Penerapan (Deployment).
+# Ekosistem: Python, Google Colab/Jupyter Notebook, dan GitHub sebagai platform kolaborasi.
