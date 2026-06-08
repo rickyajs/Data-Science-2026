@@ -1,7 +1,7 @@
-#Selamat Datang & Hallo Perkenalkan Nama Saya Ricky Armanda Jaya Sirait, Dari Prodi PJJ S1 Informatika Universitas Siber Asia, Dengan NIM : 240401020219
-#Tujuan Saya Belajar Data Science Ini Adalah Saya Sudah Mulai Tertarik Mempelajarinya Karena Data Science Sedang Populer Belakangan Ini
-#Tools / Library yang digunakan adalah kesuluruhan dari modul yang diberikan
-#Berikut adalah kesimpulan yang saya simpulkan dari modul pertemuan 1 sampai 7 :
+# Selamat Datang & Hallo Perkenalkan Nama Saya Ricky Armanda Jaya Sirait, Dari Prodi PJJ S1 Informatika Universitas Siber Asia, Dengan NIM : 240401020219
+# Tujuan Saya Belajar Data Science Ini Adalah Saya Sudah Mulai Tertarik Mempelajarinya Karena Data Science Sedang Populer Belakangan Ini
+# Tools / Library yang digunakan adalah kesuluruhan dari modul yang diberikan
+# Berikut adalah kesimpulan yang saya simpulkan dari modul pertemuan 1 sampai 7 :
 
 Pertemuan 1: Pondasi Data Science & Alur Kerja CRISP-DM
 Esensi: Data Science merupakan seni mengolah data mentah menjadi keputusan strategis dengan memadukan ilmu pemrograman, matematika/statistika, dan pemahaman bisnis.  
