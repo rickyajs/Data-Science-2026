@@ -19,3 +19,8 @@ Penanganan Masalah:
 Missing values: Dihapus (dropping) atau diisi (imputasi mean/median).
 Duplikat: Dihapus agar tidak mendistorsi statistik.
 Outlier: Dideteksi dengan metode IQR (box plot) kemudian dihapus atau dibatasi (capping).
+
+# (*) Pertemuan 4: Statistika Dasar & Analisis Data
+Statistika Deskriptif: Mengukur pusat data (Mean, Median, Modus) dan penyebaran data (Standar Deviasi, Varians, Kuartil/IQR).
+Bentuk Data: Dilihat dari kemiringan kurva (Skewness) dan keruncingannya (Kurtosis).
+Analisis Hubungan: Menggunakan Analisis Univariat (satu variabel) dan Analisis Bivariat (dua variabel untuk melihat korelasi/hubungan, meski korelasi belum tentu berarti sebab-akibat).
