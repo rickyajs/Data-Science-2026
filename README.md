@@ -13,7 +13,7 @@ Struktur Data Python: List (bisa diubah), Tuple (tidak bisa diubah), Dictionary 
 NumPy: Digunakan untuk komputasi numerik cepat menggunakan operasi vektorisasi (ndarray).
 Pandas: Digunakan untuk manipulasi data tabular melalui objek Series (1D) dan DataFrame (2D).
 
-# (*)Pertemuan 3: Pembersihan Data (Data Cleaning)
+# (*) Pertemuan 3: Pembersihan Data (Data Cleaning)
 Tujuan: Memastikan kualitas data agar tidak menghasilkan prediksi yang salah (Garbage In, Garbage Out).
 Penanganan Masalah:
 Missing values: Dihapus (dropping) atau diisi (imputasi mean/median).
