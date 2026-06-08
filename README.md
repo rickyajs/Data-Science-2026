@@ -24,3 +24,18 @@ Outlier: Dideteksi dengan metode IQR (box plot) kemudian dihapus atau dibatasi (
 Statistika Deskriptif: Mengukur pusat data (Mean, Median, Modus) dan penyebaran data (Standar Deviasi, Varians, Kuartil/IQR).
 Bentuk Data: Dilihat dari kemiringan kurva (Skewness) dan keruncingannya (Kurtosis).
 Analisis Hubungan: Menggunakan Analisis Univariat (satu variabel) dan Analisis Bivariat (dua variabel untuk melihat korelasi/hubungan, meski korelasi belum tentu berarti sebab-akibat).
+
+# (*) Pertemuan 5: Visualisasi Data
+Prinsip Utama: Harus jelas, akurat, efisien, estetis, dan memiliki konteks.
+Tools: Matplotlib dan Seaborn.
+Kerangka Insight: Menggunakan rumus What? (Apa datanya?), So What? (Apa dampaknya bagi bisnis?), dan Now What? (Apa rekomendasi tindakannya?).
+
+# (*) Pertemuan 6: Persiapan Data (Preprocessing)
+Data Splitting: Membagi data menjadi Data Train dan Data Test untuk mencegah kebocoran informasi (data leakage).
+Encoding: Mengubah teks kategorikal menjadi angka lewat Label Encoding (untuk data berjenjang/ordinal) atau One-Hot Encoding (untuk data tanpa jenjang/nominal).
+Scaling: Menyetarakan rentang nilai numerik menggunakan Standardization (Z-score) atau Normalization (MinMaxScaler 0-1) agar memproses semua variabel.
+
+# (*) Pertemuan 7: Machine Learning — Regresi Linear
+Konsep: Algoritma supervised learning untuk memprediksi angka kontinu berdasarkan hubungan garis lurus dengan variabel input.
+Evaluasi Model: Dinilai menggunakan metrik eror seperti MAE, MSE, RMSE .
+Evaluasi Visual (Residual Plot): Model dianggap baik jika penyebaran nilai erornya (residual) acak dan tidak membentuk pola tertentu.
