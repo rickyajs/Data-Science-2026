@@ -7,3 +7,8 @@
 Inti: Data Science menggabungkan Ilmu Komputer, Matematika/Statistika, dan Bisnis untuk mengubah data menjadi wawasan (insight).
 Kerangka Kerja (CRISP-DM): Proses iteratif yang terdiri dari 6 tahap: Pemahaman Bisnis → Pemahaman Data → Persiapan Data → Pemodelan → Evaluasi → Penerapan (Deployment).
 Ekosistem: Python, Google Colab/Jupyter Notebook, dan GitHub sebagai platform kolaborasi.
+
+# (*) Pertemuan 2: Struktur Data Python, NumPy & Pandas
+Struktur Data Python: List (bisa diubah), Tuple (tidak bisa diubah), Dictionary (kunci-nilai), dan Set (unik/tanpa duplikat).
+NumPy: Digunakan untuk komputasi numerik cepat menggunakan operasi vektorisasi (ndarray).
+Pandas: Digunakan untuk manipulasi data tabular melalui objek Series (1D) dan DataFrame (2D).
