@@ -39,3 +39,24 @@ Scaling: Menyetarakan rentang nilai numerik menggunakan Standardization (Z-score
 Konsep: Algoritma supervised learning untuk memprediksi angka kontinu berdasarkan hubungan garis lurus dengan variabel input.
 Evaluasi Model: Dinilai menggunakan metrik eror seperti MAE, MSE, RMSE .
 Evaluasi Visual (Residual Plot): Model dianggap baik jika penyebaran nilai erornya (residual) acak dan tidak membentuk pola tertentu.
+
+# (*) Pertemuan 9: Algoritma Klasifikasi (Bagian 1)
+Fokus Utama: Mengenal Supervised Learning untuk memprediksi kategori diskret (biner maupun banyak kelas).
+Logistic Regression & Decision Tree: Logistic Regression memetakan probabilitas menggunakan fungsi Sigmoid. Sementara itu, Decision Tree menyusun aturan alur logis berdasarkan tingkat kemurnian data (Gini/Entropy), di mana batas kedalaman pohon perlu diatur agar model tidak overfitting.
+Evaluasi Performa: Penilaian dilakukan lewat Confusion Matrix yang menghasilkan metrik Accuracy, Precision, Recall, dan F1-Score. Penentuannya disesuaikan dengan kebutuhan kasus (contoh: kasus medis mengutamakan Recall).
+
+# (*) Pertemuan 10: Algoritma Klasifikasi (Bagian 2)
+Ensemble Learning & Random Forest: Teknik ini menggabungkan performa beberapa model sekaligus. Random Forest memanfaatkan metode Bagging dan pemilihan fitur acak agar prediksi lebih stabil dan tahan terhadap overfitting. Solusi Imbalanced Dataset: Kelas data yang tidak seimbang bisa menipu metrik akurasi (Accuracy Paradox). Trik mengatasinya adalah dengan rekayasa data (oversampling via SMOTE atau undersampling), penyesuaian bobot kelas (class_weight), serta pengaturan ambang batas keputusan (threshold tuning).
+
+# (*) Pertemuan 11: Unsupervised Learning: Clustering
+Fokus Utama: Mengelompokkan data tanpa label berdasarkan tingkat kemiripannya.
+K-Means vs. Hierarchical Clustering: K-Means membagi data ke dalam beberapa kelompok secara berulang mengelilingi titik centroid (sebaiknya diinisialisasi dengan K-Means++). Hierarchical Clustering membangun tingkatan struktur kelompok bertahap yang divisualisasikan melalui Dendrogram.
+Penentuan Jumlah Klaster: Kombinasi Elbow Method (grafik penurunan WCSS) dan Silhouette Score digunakan untuk menentukan jumlah kelompok ($K$) yang paling pas.
+
+# (*) Pertemuan 12: Asosiasi Data & Sistem Rekomendasi
+Association Rule Mining: Menemukan tren keterikatan antar-item (contoh: Market Basket Analysis) menggunakan algoritma Apriori. Hubungan ini diukur lewat metrik Support (frekuensi), Confidence (kepastian), dan Lift (kekuatan korelasi).
+Sistem Rekomendasi: Terdiri dari Collaborative Filtering (berbasis kemiripan kebiasaan pengguna) dan Content-Based Filtering (berbasis kesamaan atribut produk, seperti Cosine Similarity). Keduanya sering digabung (Hybrid) dan diuji menggunakan Precision/Recall.
+
+# (*) Pertemuan 13: Pengantar Deep Learning & NLP Dasar
+Machine Learning vs. Deep Learning: ML klasik membutuhkan ekstraksi fitur manual, sedangkan Deep Learning bisa mengekstrak fitur secara otomatis dari data tak terstruktur (teks, gambar, audio) menggunakan jaringan saraf (Neural Network).
+Konsep ANN & NLP: Neural Network bekerja lewat Input, Hidden, dan Output Layer yang dilatih menggunakan Forward Pass dan Backpropagation. Pada NLP, data teks dikonversi ke angka via metode seperti TF-IDF untuk keperluan analisis (seperti analisis sentimen).
